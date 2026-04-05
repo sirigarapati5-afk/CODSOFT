@@ -22,6 +22,6 @@ A Java Swing-based application that calculates total marks, average percentage, 
 2. Run the program:
    java GradeCalculatorGUI
 
-## 📷 Output
-![Output](<img width="611" height="541" alt="Screenshot 2026-04-05 110028" src="https://github.com/user-attachments/assets/d1f151dc-ad94-47a3-86b4-54dab63eb8ef" />
+## 📷 Output "C:\Users\sirig\OneDrive\Pictures\Screenshots\output.png.png"
+![Output](<img width="611" height="541" alt="output png" src="https://github.com/user-attachments/assets/7bbb0d69-d404-4151-b324-0a7102ce0ac8" />
 )
