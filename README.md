@@ -44,3 +44,17 @@ This is a Java-based ATM Interface program that simulates basic banking operatio
 ### Technologies Used:
 - Java
 - OOP Concepts
+## Task 4: Currency Converter
+
+### Description:
+This is a Java-based Currency Converter that allows users to convert amounts between different currencies.
+
+### Features:
+- Select base and target currency
+- Enter amount to convert
+- Perform currency conversion
+- Display result with currency symbol
+
+### Technologies Used:
+- Java
+- OOP Concepts
